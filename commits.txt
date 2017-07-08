@@ -1,0 +1,11 @@
+commit aa77cb45ef44de0def9bd2da371715cf636966cf
+Author: Orlando Velasquez Diaz <vdorlando@misena.edu.co>
+Date:   Fri Jul 7 21:41:09 2017 -0500
+
+    Estructura basica html
+
+commit 049b1491da855e831d9e923d73e3a530e202e7ab
+Author: Orlando Velasquez Diaz <vdorlando@misena.edu.co>
+Date:   Fri Jul 7 21:36:41 2017 -0500
+
+    definiendo archivos base
